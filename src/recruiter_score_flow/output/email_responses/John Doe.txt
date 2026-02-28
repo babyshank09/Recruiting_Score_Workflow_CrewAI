@@ -1,0 +1,14 @@
+Subject: Next Steps in Your Application at Useless Technologies Pvt Ltd
+
+Dear John,
+
+Thank you for applying for the junior developer position at Useless Technologies Pvt Ltd. We were impressed with your passion for front-end technologies and your hands-on experience building responsive websites using React, CSS, and HTML during your recent bootcamp. Your eagerness to grow as a developer and commitment to detail truly stood out.
+
+We would like to move forward with your application and invite you to a Zoom call to discuss your experience and the role further. Could you please share your availability over the next few days so we can coordinate a convenient time?
+
+Looking forward to your response.
+
+Best regards,  
+Useful  
+HR Coordinator  
+Useless Technologies Pvt Ltd

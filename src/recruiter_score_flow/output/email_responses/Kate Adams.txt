@@ -1,0 +1,16 @@
+Subject: Thank You for Your Application, Kate
+
+Dear Kate,
+
+Thank you very much for taking the time to apply to Useless Technologies Pvt Ltd and for sharing your impressive background in front-end development and AI technologies. We genuinely appreciate your enthusiasm for pushing the boundaries of what's possible in AI, as well as your experience with the Vercel AI SDK and CrewAI.
+
+After careful consideration, we have decided to pursue other candidates who more closely align with our current requirements. This decision was by no means a reflection of your skills or experience, which are commendable, but rather a matter of fit for this specific role.
+
+We truly appreciate your effort and interest in our company and encourage you to apply for future opportunities that match your expertise. We wish you the very best in your career and all your endeavors in the AI and development space.
+
+Thank you once again for your time.
+
+Warm regards,  
+Useful  
+HR Coordinator  
+Useless Technologies Pvt Ltd

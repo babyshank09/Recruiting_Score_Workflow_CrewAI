@@ -1,0 +1,14 @@
+Subject: Thank You for Your Application, Robert
+
+Dear Robert,
+
+Thank you very much for taking the time to apply for the front-end developer position at Useless Technologies Pvt Ltd. We truly appreciate your effort and the opportunity to review your impressive background, especially your expertise in React and AI-powered applications.
+
+After careful consideration, we have decided to move forward with other candidates whose experiences more closely match our current needs. This decision in no way diminishes the value of your skills or the quality of your work, particularly your innovative projects involving AI integration.
+
+We wish you the very best in your future endeavors and thank you again for considering a career with us.
+
+Warm regards,  
+Useful  
+HR Coordinator  
+Useless Technologies Pvt Ltd

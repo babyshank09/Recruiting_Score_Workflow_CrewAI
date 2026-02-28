@@ -1,0 +1,16 @@
+Subject: Thank You for Your Application, Joshua
+
+Dear Joshua,
+
+Thank you very much for taking the time to apply for the developer position at Useless Technologies Pvt Ltd. We appreciate the effort you put into your application and the opportunity to learn more about your experience with React, Next.js, and scalable eCommerce web applications.
+
+After careful consideration, we have decided to move forward with other candidates whose skills and experience more closely match our current needs. This was not an easy decision, as we were impressed by your background and enthusiasm for improving your code and working in a dynamic environment.
+
+We sincerely appreciate your interest in our company and wish you all the best in your future career endeavors. Please feel free to apply for other openings with us that align with your skills and goals.
+
+Thank you again for your time and understanding.
+
+Best regards,  
+Useful  
+HR Coordinator  
+Useless Technologies Pvt Ltd

@@ -1,0 +1,14 @@
+Subject: Next Steps in Your Application with Useless Technologies Pvt Ltd
+
+Dear Sarah,
+
+Thank you for applying to Useless Technologies Pvt Ltd and sharing your impressive portfolio with us. We were particularly impressed by your self-driven projects, including your responsive personal blog and task manager app built with React and Next.js. Your passion for problem-solving and continuous learning truly stands out, and we appreciate your enthusiasm for collaborative environments.
+
+We would like to move forward with you in the recruitment process and invite you to a Zoom call to discuss your experience and the opportunity further. Could you please share your availability over the next few days so we can schedule a convenient time?
+
+We look forward to connecting with you soon.
+
+Best regards,  
+Useful  
+HR Coordinator  
+Useless Technologies Pvt Ltd

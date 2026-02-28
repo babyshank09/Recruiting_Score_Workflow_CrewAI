@@ -1,0 +1,14 @@
+Subject: Thank You for Your Application, Matthew
+
+Dear Matthew,
+
+Thank you very much for taking the time to apply for the developer position at Useless Technologies Pvt Ltd. We truly appreciate your effort and the detailed insights you shared about your experience with full-stack development and AI-driven front-end applications, including your work with the Vercel AI SDK and CrewAI. Your passion for creating high-performance, user-friendly web applications is impressive.
+
+After careful consideration, we have decided to move forward with other candidates whose experience more closely aligns with our current needs. This decision in no way diminishes the strong skills and potential you demonstrated, and we encourage you to apply for future opportunities with us.
+
+We wish you all the best in your job search and future endeavors.
+
+Kind regards,  
+Useful  
+HR Coordinator  
+Useless Technologies Pvt Ltd

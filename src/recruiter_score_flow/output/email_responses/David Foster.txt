@@ -1,0 +1,16 @@
+Subject: Thank You for Your Application, David
+
+Dear David,
+
+Thank you very much for taking the time to apply for the position at Useless Technologies Pvt Ltd. We truly appreciate your effort and the opportunity to learn more about your experience with React development, Next.js, and your recent exploration into AI integrations using the Vercel AI SDK.
+
+After careful consideration, we have decided to move forward with other candidates who more closely match the specific requirements for this role at this time. This decision was not easy given your evident skills and background.
+
+We wish you every success in your job search and your future endeavors, especially as you continue to develop your expertise in front-end technologies and AI applications.
+
+Thank you again for your interest in Useless Technologies.
+
+Kind regards,  
+Useful  
+HR Coordinator  
+Useless Technologies Pvt Ltd
