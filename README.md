@@ -1,4 +1,4 @@
-# Lead Score Flow
+# Recruiting Score Flow
 
 Welcome to the Recruiting Score Flow project, powered by crewAI. This example demonstrates how you can leverage Flows from crewAI to automate the process of scoring candidates, including data collection, analysis, and scoring. By utilizing Flows, the process becomes much simpler and more efficient.
 
