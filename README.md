@@ -16,3 +16,22 @@ This flow will guide you through the process of setting up an automated lead sco
 **Write and Save Emails:** Emails are generated and saved for all leads.
 
 By following this flow, you can efficiently automate the process of scoring leads, leveraging the power of multiple AI agents to handle different aspects of the lead scoring workflow.
+
+## Running the Project
+
+To get the project up and running on your local machine, follow these steps:
+
+1. Install the required Python packages:
+   ```bash
+   pip install -r requirements.txt
+   ```
+2. Change into the `src` directory:
+   ```bash
+   cd src
+   ```
+3. Launch the Streamlit application:
+   ```bash
+   python -m streamlit run recruiter_score_flow/app.py
+   ```
+
+These commands will start the Streamlit UI where you can interact with the Recruiting Score Flow.
