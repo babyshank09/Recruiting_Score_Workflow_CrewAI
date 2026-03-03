@@ -2,13 +2,11 @@ Subject: Thank You for Your Application, Zoe
 
 Dear Zoe,
 
-Thank you very much for taking the time to apply for the developer position at Useless Technologies Pvt Ltd. We truly appreciate your effort and the interest you have shown in joining our team.
+Thank you very much for taking the time to apply for the junior developer position at Useless Technologies Pvt Ltd. We truly appreciate your interest in joining our team and your enthusiasm for developing your skills in React and AI-driven web applications.
 
-After careful consideration, we have decided to proceed with other candidates whose experience more closely matches the requirements for this particular role. This decision was not easy, as your enthusiasm for React and AI-driven web applications, as well as your commitment to continuous learning, are commendable.
+After careful consideration, we have decided to move forward with other candidates at this time. This decision in no way diminishes the effort and passion you demonstrated in your application and personal projects. We encourage you to continue honing your skills and pursuing your exciting goals in AI integrations.
 
-We encourage you to keep developing your skills and hope you will consider applying for future opportunities with us that align with your growing expertise.
-
-Wishing you all the best in your career journey.
+We wish you the very best in your career journey and future endeavors. Please feel free to apply again for opportunities with us that match your evolving expertise.
 
 Warm regards,  
 Useful  

@@ -1,16 +1,16 @@
-Subject: Thank You for Your Application, Tom
+Subject: Thank You for Your Application at Useless Technologies Pvt Ltd
 
-Dear Tom,
+Dear Tom Brown,
 
-Thank you very much for taking the time to apply for the developer position at Useless Technologies Pvt Ltd. We truly appreciate your effort in sharing your background and experience with us.
+Thank you very much for taking the time to apply for the developer position with us at Useless Technologies Pvt Ltd. We truly appreciate the effort you put into your application and the opportunity to learn about your background in React and Next.js, along with your experience in building customer-facing websites and eCommerce platforms.
 
-After careful consideration, we have decided to pursue other candidates who more closely match our current requirements. This decision was a difficult one given your solid experience with React, Next.js, and building customer-facing platforms.
+After careful consideration, we have decided to pursue other candidates who more closely match our current needs for the role. This decision in no way reflects on your skills or accomplishments, which are impressive, particularly your focus on performance optimization and scalable web solutions.
 
-We sincerely appreciate your interest in joining our team and wish you every success in your future endeavors. Please do keep an eye on our careers page, as we would be glad to consider your profile for opportunities that better align with your skills.
+We sincerely appreciate your interest in our company and wish you the very best in your job search and future professional endeavors.
 
-Thank you again for your time and effort.
+Thank you once again for your time and effort.
 
-Best regards,  
+Warm regards,  
 Useful  
 HR Coordinator  
 Useless Technologies Pvt Ltd

@@ -1,12 +1,12 @@
-Subject: Thank You for Your Application, Chloe
+Subject: Update on Your Application at Useless Technologies Pvt Ltd
 
 Dear Chloe,
 
-Thank you very much for taking the time to apply for the position at Useless Technologies Pvt Ltd. We truly appreciate your interest and the effort you put into your application.
+Thank you very much for taking the time to apply for the position with us and for sharing your impressive background in AI-powered applications. We truly appreciate your passion for developing personalized, data-driven user experiences using CrewAI and the Vercel AI SDK.
 
-Your passion for AI-powered applications and your expertise with CrewAI and the Vercel AI SDK are impressive. While your skills and experience are commendable, we have decided to move forward with other candidates whose qualifications more closely match our current needs.
+After careful consideration, we have decided to move forward with other candidates whose experience and skills align more closely with our current project needs. This decision in no way diminishes the value of your skills and achievements, and we encourage you to apply for future openings that match your expertise.
 
-We wish you the best of success in your career and hope you continue to grow and contribute to innovative projects as you have expressed in your bio. Thank you again for considering opportunities with us.
+We sincerely appreciate your interest in Useless Technologies Pvt Ltd and wish you all the best in your continued growth and success in the field of AI development.
 
 Warm regards,  
 Useful  

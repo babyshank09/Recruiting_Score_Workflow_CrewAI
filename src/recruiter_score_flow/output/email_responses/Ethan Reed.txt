@@ -1,16 +1,14 @@
-Subject: Update on Your Application at Useless Technologies Pvt Ltd
+Subject: Thank You for Your Application, Ethan
 
 Dear Ethan,
 
-Thank you very much for taking the time to apply for the web developer position at Useless Technologies Pvt Ltd. We truly appreciate the effort you put into sharing your background and experience with us.
+Thank you very much for taking the time to apply to Useless Technologies Pvt Ltd and for sharing your impressive background in full-stack development and AI-driven solutions. We truly appreciate your effort and the passion you bring to your work, especially your projects involving React, Next.js, and the Vercel AI SDK.
 
-After careful consideration, we have decided to pursue other candidates whose skills and experiences more closely align with our current needs. This was not an easy decision given your impressive work with full-stack development and AI-driven solutions, especially your projects utilizing React, Next.js, and the Vercel AI SDK.
+After careful consideration, we have decided to move forward with other candidates for this particular role at this time. This decision in no way reflects on your talents or potential, and we encourage you to apply for future opportunities with us as they become available.
 
-We wish you the very best in your continued journey as a developer and in your passion for creating AI-powered projects that enhance user experiences. Please feel free to stay in touch and apply for any future openings that match your expertise.
+We wish you all the best in your continued journey as an AI and web development professional. Thank you again for your interest in joining Useless Technologies.
 
-Thank you again for your interest in joining our team.
-
-Best regards,  
+Warm regards,  
 Useful  
 HR Coordinator  
 Useless Technologies Pvt Ltd

@@ -28,5 +28,12 @@ evaluate_candidate:
     {additional_instructions}
 
   expected_output: >
-    A very specific score from 1 to 100 for the candidate, along with a detailed reasoning explaining why you assigned this score.
+    Return ONLY a valid JSON object with no markdown, no code fences, no comments, and no extra text.
+    The JSON must have exactly these three fields:
+    - "id": the candidate's ID as a string
+    - "score": an integer between 1 and 100
+    - "reason": a detailed explanation of the score
+
+    Example:
+    {"id": "42", "score": 87, "reason": "Strong match due to..."}
   agent: hr_evaluation_agent

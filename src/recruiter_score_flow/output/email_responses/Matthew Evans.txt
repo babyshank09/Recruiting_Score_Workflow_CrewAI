@@ -1,14 +1,14 @@
-Subject: Thank You for Your Application, Matthew
+Subject: Follow-up on Your Application at Useless Technologies Pvt Ltd
 
 Dear Matthew,
 
-Thank you very much for taking the time to apply for the developer position at Useless Technologies Pvt Ltd. We truly appreciate your effort and the detailed insights you shared about your experience with full-stack development and AI-driven front-end applications, including your work with the Vercel AI SDK and CrewAI. Your passion for creating high-performance, user-friendly web applications is impressive.
+Thank you very much for taking the time to apply for the developer position with us and for sharing your impressive background in full-stack development and AI-driven front-end applications. We truly appreciate your effort and the expertise you bring, especially your experience with advanced technologies like the Vercel AI SDK and CrewAI.
 
-After careful consideration, we have decided to move forward with other candidates whose experience more closely aligns with our current needs. This decision in no way diminishes the strong skills and potential you demonstrated, and we encourage you to apply for future opportunities with us.
+After careful consideration, we have decided to move forward with other candidates whose skills and experience more closely match our current needs. This decision in no way diminishes the value of your accomplishments or the potential you demonstrated. We encourage you to apply for future openings that align with your expertise.
 
-We wish you all the best in your job search and future endeavors.
+Thank you again for your interest in Useless Technologies Pvt Ltd, and we wish you the best in all your future endeavors.
 
-Kind regards,  
+Warm regards,  
 Useful  
 HR Coordinator  
 Useless Technologies Pvt Ltd

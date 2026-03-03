@@ -1,16 +1,14 @@
-Subject: Update on Your Application at Useless Technologies Pvt Ltd
+Subject: Thank You for Your Application, Abigail
 
 Dear Abigail,
 
-Thank you very much for taking the time to apply for the position with us and for sharing your experience, particularly your impressive work integrating AI with React to enhance user experience. We truly appreciate your passion for building applications that are both functional and visually appealing.
+Thank you very much for taking the time to apply for the developer position at Useless Technologies Pvt Ltd. We truly appreciate your effort and the opportunity to learn about your skills and experience, particularly your work with React and AI integration using the Vercel AI SDK.
 
-After careful consideration, we have decided to move forward with other candidates whose backgrounds more closely match the specific requirements of this role at this time. This decision in no way diminishes the value of your skills and accomplishments.
+After careful consideration, we have decided to move forward with other candidates whose qualifications more closely match our current requirements. This in no way diminishes the value of your background or your passion for creating user-friendly and visually appealing applications.
 
-We sincerely appreciate the effort you put into your application and wish you the very best in your career ahead. Please feel free to apply for future openings with Useless Technologies that align with your expertise.
+We wish you the very best in your career and future endeavors, and we appreciate your interest in our company.
 
-Thank you again for your interest in our company.
-
-Best regards,  
+Kind regards,  
 Useful  
 HR Coordinator  
 Useless Technologies Pvt Ltd

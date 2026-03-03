@@ -1,18 +1,16 @@
-Subject: Thank You for Your Application at Useless Technologies Pvt Ltd
+Subject: Your Application at Useless Technologies Pvt Ltd
 
 Dear Linda,
 
-Thank you very much for taking the time to apply for the full-stack developer position at Useless Technologies Pvt Ltd. We truly appreciate your interest in our company and the effort you put into your application.
+Thank you very much for taking the time to apply for the full-stack developer position at Useless Technologies Pvt Ltd. We truly appreciate your interest in joining our team and the effort you put into your application.
 
-We were impressed by your experience with front-end technologies, especially your work with React, Next.js, and your recent exploration of AI integrations using the Vercel AI SDK and CrewAI. Your dedication to creating seamless and user-friendly interfaces is commendable.
+After careful consideration of your experience with front-end technologies and your work exploring AI integrations, we regret to inform you that we will not be moving forward with your application at this time. We received many strong applications, and the selection process was highly competitive.
 
-After careful consideration, we have decided to move forward with other candidates whose skills and experiences more closely align with the current needs of the role. This decision was not easy given the quality of your background and achievements.
+We wish you all the best in your future endeavors and encourage you to apply for any roles that match your skills and career goals in the future.
 
-We wish you all the best in your career and future endeavors, and we hope you will consider applying for opportunities with us again in the future.
+Thank you again for your interest in Useless Technologies.
 
-Thank you once again for your interest in Useless Technologies.
-
-Kind regards,  
+Best regards,  
 Useful  
 HR Coordinator  
 Useless Technologies Pvt Ltd

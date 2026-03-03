@@ -1,12 +1,14 @@
-Subject: Update on Your Application at Useless Technologies Pvt Ltd
+Subject: Thank You for Your Application, Amy
 
 Dear Amy,
 
-Thank you very much for taking the time to apply for the position with us and for sharing your impressive experience in full-stack development and AI integrations. We truly appreciate the effort you put into your application and your passion for mentoring junior developers, which is admirable.
+Thank you very much for taking the time to apply for the position at Useless Technologies Pvt Ltd. We truly appreciate your interest and the effort you put into sharing your experience with us.
 
-After careful consideration, we have decided to move forward with other candidates at this time. This was a difficult decision given the strength of your background and accomplishments.
+After careful consideration, we have decided to move forward with other candidates at this time. This decision in no way diminishes the impressive skills and accomplishments you demonstrated, especially your extensive expertise in full-stack development and AI integrations, as well as your dedication to mentoring junior developers.
 
-We wish you the very best in your future professional endeavors and sincerely thank you again for your interest in Useless Technologies Pvt Ltd.
+We sincerely wish you all the best in your career and future endeavors and hope our paths may cross again.
+
+Thank you once again for your interest in Useless Technologies.
 
 Warm regards,  
 Useful  
