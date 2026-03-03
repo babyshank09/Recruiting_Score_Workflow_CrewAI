@@ -1,14 +1,14 @@
-Subject: Thank You for Your Application, Lily
+Subject: Thank You for Your Application at Useless Technologies
 
 Dear Lily,
 
-Thank you very much for taking the time to apply for the junior developer position at Useless Technologies Pvt Ltd. We appreciate your enthusiasm for React and your proactive approach to learning Next.js to enhance your front-end skills, as well as your interest in contributing to AI-driven projects.
+Thank you very much for your interest in the junior developer position at Useless Technologies Pvt Ltd and for taking the time to share your background with us. We truly appreciate the effort you put into your application and your enthusiasm for front-end development and AI-driven projects.
 
-After careful consideration, we have decided to move forward with other candidates whose experience more closely aligns with our current requirements. This decision was not easy given your passion and skill development.
+After careful consideration, we have decided to move forward with other candidates whose experience more closely aligns with our current needs. This decision was not an easy one given your solid foundation in React and your proactive approach in learning Next.js.
 
-We sincerely appreciate your effort and the time you invested in the application process, and we encourage you to keep honing your skills and applying in the future.
+We wish you all the best in your continued development and future endeavors, and we encourage you to apply for opportunities with us again as your skills and experience grow.
 
-Wishing you all the best in your career journey.
+Thank you once again for your interest and time.
 
 Warm regards,  
 Useful  

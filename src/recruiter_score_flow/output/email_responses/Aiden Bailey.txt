@@ -2,13 +2,13 @@ Subject: Thank You for Your Application, Aiden
 
 Dear Aiden,
 
-I hope this message finds you well. I want to sincerely thank you for taking the time to apply for the full-stack developer role at Useless Technologies Pvt Ltd. We truly appreciate the effort you put into your application and were impressed by your experience, especially your work with AI-powered tools and leadership in innovative projects.
+Thank you very much for taking the time to apply for the full-stack developer position at Useless Technologies Pvt Ltd. We truly appreciate the effort you invested in sharing your background and experiences with us.
 
-After careful consideration, we have decided to pursue other candidates whose current skills and experience more closely align with our specific needs at this time. This decision was not easy, given your strong background and accomplishments.
+After careful consideration, we have decided to move forward with other candidates whose skills and experience align more closely with our current needs. This was not an easy decision given your impressive work with front-end technologies and AI-powered tools, as well as your leadership in projects using CrewAI and the Vercel AI SDK.
 
-We wish you the very best in your continued career and appreciate your interest in joining our team. Please do not hesitate to apply for future openings that match your expertise.
+We wish you all the best in your career and your ongoing pursuit of innovative solutions and mentorship roles. Thank you again for your interest in our company.
 
-Warm regards,  
+Kind regards,  
 Useful  
 HR Coordinator  
 Useless Technologies Pvt Ltd

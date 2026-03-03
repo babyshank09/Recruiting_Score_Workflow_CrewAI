@@ -1,16 +1,16 @@
-Subject: Thank You for Your Application, Luke
+Subject: Your Application at Useless Technologies Pvt Ltd
 
 Dear Luke,
 
-Thank you very much for your interest in the developer position at Useless Technologies Pvt Ltd and for taking the time to share your background with us. We truly appreciate the effort you put into your application.
+Thank you very much for taking the time to apply for the junior developer position at Useless Technologies Pvt Ltd. We truly appreciate your interest and the effort you invested in sharing your background with us.
 
-After careful consideration, we have decided to move forward with other candidates whose experience more closely aligns with our current needs. This decision in no way reflects negatively on your skills or potential. We were impressed by your enthusiasm for building user-friendly React applications and your eagerness to expand your knowledge in advanced technologies like Next.js and AI integrations.
+After careful consideration, we have decided to move forward with other candidates whose experience and skills more closely match the current needs of the role. This was not an easy decision, as we recognize your strong foundation in React and your eagerness to grow in advanced technologies like Next.js and AI integrations.
 
-We encourage you to keep developing your skills and stay connected with us for future opportunities that may be a better fit.
+We encourage you to keep building on your skills and wish you every success in your career development. Please feel free to apply for future openings with us that align with your experience and interests.
 
-Thank you once again for your interest and time, and we wish you all the best in your career journey.
+Thank you again for your time and interest in Useless Technologies.
 
-Warm regards,  
+Best regards,  
 Useful  
 HR Coordinator  
 Useless Technologies Pvt Ltd

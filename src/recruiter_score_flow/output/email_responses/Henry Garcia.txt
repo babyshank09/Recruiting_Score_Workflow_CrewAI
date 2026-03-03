@@ -2,11 +2,11 @@ Subject: Thank You for Your Application, Henry
 
 Dear Henry,
 
-Thank you very much for your interest in the opportunity at Useless Technologies Pvt Ltd and for taking the time to submit your application. We genuinely appreciate learning about your background, especially your work with AI-powered web applications and your enthusiasm for applying AI to solve real-world problems.
+I hope this message finds you well. We truly appreciate the time and effort you invested in applying for a position with Useless Technologies Pvt Ltd and sharing your passion for AI-powered web applications with us.
 
-After careful consideration, we have decided to proceed with other candidates whose experience more closely matches our current needs. This decision in no way diminishes the impressive skills and passion you demonstrated, and we encourage you to continue pursuing your goals in this exciting field.
+After careful consideration of your background and projects, including your impressive work with the Next.js app utilizing the Vercel AI SDK, we have decided to move forward with other candidates at this time. This decision in no way diminishes the value of your skills and enthusiasm, and we encourage you to continue pursuing exciting opportunities in AI development.
 
-Thank you again for your effort and for considering Useless Technologies as a potential employer. We wish you all the very best in your job search and future endeavors.
+Thank you again for your interest in our company. We wish you all the best in your career endeavors and hope you find a role that perfectly aligns with your talents and ambitions.
 
 Warm regards,  
 Useful  

@@ -1,12 +1,12 @@
-Subject: Update on Your Application at Useless Technologies Pvt Ltd
+Subject: Thank You for Your Application, Olivia
 
 Dear Olivia,
 
-Thank you very much for taking the time to apply for the web development position with us at Useless Technologies Pvt Ltd. We truly appreciate your enthusiasm and the effort you have invested in building your skills, particularly your passion for React and AI integrations.
+Thank you very much for taking the time to apply for the position at Useless Technologies Pvt Ltd. We truly appreciate your enthusiasm for web development and your initiative in building projects with React, as well as your interest in AI integrations.
 
-After careful consideration, we have decided to move forward with other candidates whose experience more closely matches our current needs. This decision in no way diminishes the potential we see in your background and your proactive approach to web development.
+After careful consideration, we have decided to move forward with other candidates whose skills and experience more closely match our current requirements. This was not an easy decision given your passion and dedication to improving your problem-solving abilities.
 
-We wish you the very best in your job search and your continued growth in the field. Thank you again for considering Useless Technologies as a potential employer.
+We encourage you to continue honing your skills and wish you all the best in your professional journey. Thank you again for your interest in our company and the effort you put into your application.
 
 Warm regards,  
 Useful  

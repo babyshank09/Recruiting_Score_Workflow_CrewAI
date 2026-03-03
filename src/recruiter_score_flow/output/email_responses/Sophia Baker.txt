@@ -1,12 +1,14 @@
-Subject: Thank You for Your Application, Sophia
+Subject: Thank You for Your Application at Useless Technologies Pvt Ltd
 
 Dear Sophia,
 
-Thank you very much for your interest in the developer position at Useless Technologies Pvt Ltd and for taking the time to apply. We truly appreciate your enthusiasm for learning React and your passion for AI-powered web applications. We also admire your eagerness to grow your skills and work within a collaborative team environment.
+Thank you very much for taking the time to apply for the developer position with us at Useless Technologies Pvt Ltd. We truly appreciate your enthusiasm for learning and your interest in AI-powered web applications, as well as the effort you have put into your personal projects with React.
 
-After careful consideration, we have decided to pursue other candidates who more closely match the specific experience level required for this role at this time. However, we encourage you to continue developing your skills and gaining experience, as your dedication is truly commendable.
+After careful consideration, we have decided to proceed with other candidates whose experience more closely matches the requirements for this particular role. This decision was not easy, given your evident eagerness to grow and contribute.
 
-We wish you all the best in your career journey and appreciate your interest in our company.
+We encourage you to keep building on your skills and wish you every success in your development career. Please do not hesitate to apply again in the future as you gain further experience.
+
+Thank you once again for your interest in our company.
 
 Warm regards,  
 Useful  

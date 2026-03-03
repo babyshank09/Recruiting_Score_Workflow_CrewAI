@@ -1,14 +1,14 @@
-Subject: Your Application at Useless Technologies Pvt Ltd
+Subject: Thank You for Your Application, David
 
 Dear David,
 
-Thank you very much for taking the time to apply for the React developer position with us at Useless Technologies Pvt Ltd. We truly appreciate your interest and the effort you put into your application.
+I hope this message finds you well. Thank you very much for taking the time to apply for the React Developer position at Useless Technologies Pvt Ltd. We truly appreciate the effort you put into your application and the opportunity to learn about your experience with responsive web applications, Next.js, and your recent explorations into AI integrations.
 
-After careful consideration, we have decided to proceed with other candidates whose backgrounds more closely match our current requirements. This decision in no way diminishes the impressive skills and experience you demonstrated, particularly your work with Next.js and your initiative in exploring AI integrations.
+After careful consideration, we have decided to move forward with other candidates whose current skills and experience align more closely with our immediate needs. Please know this decision in no way diminishes the impressive background you bring, and we encourage you to apply again in the future as new opportunities arise.
 
-We wish you all the best in your ongoing career search and future endeavors and hope you find a role that aligns perfectly with your talents and aspirations.
+We wish you all the best in your continued career journey, especially as you explore exciting areas like AI with the Vercel AI SDK.
 
-Thank you again for considering Useless Technologies as a potential employer.
+Thank you once again for your interest and for considering Useless Technologies Pvt Ltd.
 
 Warm regards,  
 Useful  

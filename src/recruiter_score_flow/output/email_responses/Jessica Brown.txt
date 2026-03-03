@@ -2,11 +2,13 @@ Subject: Your Application at Useless Technologies Pvt Ltd
 
 Dear Jessica,
 
-Thank you very much for taking the time to apply for the junior developer position at Useless Technologies Pvt Ltd. We truly appreciate your enthusiasm and the efforts you have made in building your skills with React and Next.js, as well as your recent internship experience.
+Thank you very much for taking the time to apply for the junior developer position at Useless Technologies Pvt Ltd. We truly appreciate your interest in joining our team and the effort you put into your application.
 
-After careful consideration, we have decided to proceed with other candidates whose skills and experience more closely match our current requirements. This decision was not an easy one given your strong foundation and eagerness to grow in AI technologies.
+After careful consideration, we have decided to proceed with other candidates whose experience and skills more closely match our current needs. However, we were impressed by your solid foundation in React and Next.js, as well as your proactive approach to gaining real-world experience during your internship.
 
-We wish you the very best in your career journey and encourage you to keep developing your talents. Thank you again for your interest in joining our team.
+We encourage you to continue building your skills and hope you will consider applying for future opportunities with us as you grow your experience in AI technologies.
+
+Wishing you all the best in your career pursuits.
 
 Warm regards,  
 Useful  

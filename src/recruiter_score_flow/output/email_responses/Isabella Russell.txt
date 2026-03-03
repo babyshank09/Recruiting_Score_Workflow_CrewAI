@@ -1,16 +1,16 @@
-Subject: Update on Your Application at Useless Technologies Pvt Ltd
+Subject: Thank You for Your Application, Isabella
 
 Dear Isabella,
 
-Thank you very much for your interest in the developer position at Useless Technologies Pvt Ltd and for taking the time to share your background with us. We truly appreciate your passion for learning and the effort you have put into building your front-end development skills through courses and personal projects.
+Thank you very much for taking the time to apply for the developer position at Useless Technologies Pvt Ltd. We truly appreciate your interest in joining our team and the effort you have put into developing your skills in front-end development, especially with React.
 
-After careful consideration, we have decided to move forward with other candidates whose experience more closely aligns with the requirements of this particular role. This decision was not easy given your enthusiasm and commitment to growth.
+After careful consideration, we have decided to proceed with other candidates whose experience more closely aligns with the requirements for this role at this time. This decision was not easy given your passion for learning and dedication to advancing your front-end abilities.
 
-We encourage you to keep developing your skills and welcome you to apply for future opportunities that may better match your profile. We wish you all the best in your career journey and appreciate the opportunity to learn about your talents.
+We encourage you to continue building on your skills and gaining hands-on experience—your enthusiasm and commitment will certainly serve you well in your career journey. We will keep your information on file, and should an opportunity arise that fits your profile in the future, we would be happy to reach out.
 
-Thank you once again for your application and your time.
+Thank you again for your interest in Useless Technologies. We wish you the very best in your job search and all your future professional endeavors.
 
-Warm regards,  
+Kind regards,  
 Useful  
 HR Coordinator  
 Useless Technologies Pvt Ltd
