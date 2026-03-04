@@ -7,15 +7,15 @@ Welcome to the Recruiting Score Flow project, powered by crewAI. This example de
 
 This flow will guide you through the process of setting up an automated lead scoring system. Here's a brief overview of what will happen in this flow:
 
-**Load Leads:** The flow starts by loading lead data from a CSV file named candidates.csv.
+**Load Candidates:** The flow starts by loading lead data from a CSV file named candidates.csv.
 
-**Score Leads:** The RecruitingScoreCrew is kicked off to score the loaded leads based on predefined criteria.
+**Score Candidates:** The RecruitingScoreCrew is kicked off to score the loaded candidates based on predefined criteria.
 
 **Human in the Loop:** The top 3 candidates are presented for human review, allowing for additional feedback or proceeding with writing emails.
 
-**Write and Save Emails:** Emails are generated and saved for all leads.
+**Write and Save Emails:** Emails are generated and saved for all candidates.
 
-By following this flow, you can efficiently automate the process of scoring leads, leveraging the power of multiple AI agents to handle different aspects of the lead scoring workflow.
+By following this flow, you can efficiently automate the process of scoring candidates, leveraging the power of multiple AI agents to handle different aspects of the lead scoring workflow.
 
 ## Running the Project
 
